@@ -1,7 +1,7 @@
 # Docker
 
 This is a guide for a basic knowledge on Docker and what it is trying to solve. I will also go through some examples of uses in it.
-Note that this will go over **Docker-Engine, Docker CE, Docker Machine, and **Docker Compose**
+Note that this will go over **Docker-Engine, Docker CE, Docker Machine,** and **Docker Compose**
 
 # Table of Contents
 

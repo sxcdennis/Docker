@@ -62,7 +62,9 @@ Although there are several benefits of using docker because its way more light-w
 
 `docker container ls --all` Lists all containers.
 
+# Containers
 
+Now we're going to go through the process of building an app. We will first start by going over how to run
 
 
 
