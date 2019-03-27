@@ -1,6 +1,6 @@
 # Docker Concepts and Containers
 
-Docker has 3 main products. **Docker EE**(Enterprise Edition), **Docker CE** (Community edition) and **Docker-Compose**.
+Docker has 4 main products. **Docker EE**(Enterprise Edition), **Docker CE** (Community edition),  **Docker-Compose**, and **Docker Machine**.
 
 **Docker CE** (Community edition) is the Open Source Community edition of previously named Docker Engine. Which is now just called Docker.
 
@@ -8,6 +8,7 @@ Docker has 3 main products. **Docker EE**(Enterprise Edition), **Docker CE** (Co
 
 **Docker-Compose** is used to manage multiple container applications.
 
+**Docker Machine** Docker Machine is a tool for provisioning and managing your Dockerized hosts (hosts with Docker Engine on them).
 
 Docker is a tool that can deploy and run applications by using **containers**.
 
